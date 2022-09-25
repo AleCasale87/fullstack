@@ -25,16 +25,16 @@ If you have an existing database, you can instead link to it, by modifying the f
 
 2) Setting up the backend
 To install all the backend packages run the following command from inside the 'backend' folder:
-npm install
+`npm install`
 
 and the following command to run the server:
-nodemon index 
+`nodemon index` 
 
 3) Setting up the frontend
 To install all the frontend packages run the following command from inside the 'frontend' folder:
-npm install
+`npm install`
 
 and the following command to run the nodejs hosting the frontend:
-npm start
+`npm start`
 
 4) Open the frontend at the url http://localhost:3000
