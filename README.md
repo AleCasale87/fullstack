@@ -5,7 +5,7 @@ This project allows to create REST APIs for:
 
 The project files are divided into a 'backend' and 'frontend' folder.
 
-INSTALLATION GUIDE:
+###### INSTALLATION GUIDE
 
 1) Setting up the MySql database
 In order to run this code, you first have to create a MySql database called 'authentication_db' with a table called 'users' with the following columns:
